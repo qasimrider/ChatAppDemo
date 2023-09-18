@@ -1,6 +1,6 @@
 # ChatAppDemo
 
-###### This Application is build on a Multi modules using MVVM, Clean Architecture approache
+##### This Application is build on a Multi modules using MVVM, Clean Architecture approache
 
 The Approach to write this software is pretty much in an isolated way. Below are the brief description of the modules in the software
 
